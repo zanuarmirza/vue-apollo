@@ -1,5 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <ApolloExample/>
 </template>
+
+<script>
+import ApolloExample from '@/components/ApolloExample.vue'
+
+export default {
+  name: 'home',
+  components: {
+    ApolloExample
+  }
+}
+</script>
