@@ -1,5 +1,10 @@
 # vue-graphql
 
+## Project Description
+- Using Tailwind css
+- Implementation of Graphql using apollo
+- Include Server sample using express for graphql server
+
 ## Project setup
 ```
 npm install
