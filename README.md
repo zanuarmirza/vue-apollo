@@ -10,9 +10,10 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run Project
 ```
 npm run serve
+npm run apollo:run
 ```
 
 ### Compiles and minifies for production
